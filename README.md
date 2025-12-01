@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,3 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# Infinite_Dev" 
+=======
+# Infinite_Dev
+Node.js + Express server with MongoDB, JWT auth, Razorpay payments, Cloudinary uploads, Firebase storage, and Socket.io real-time chat/call system. It manages users, bookings, media, and admin operations with secure, scalable APIs.
+>>>>>>> 078afd42d0d31354d025122652af502264b8e5a6
